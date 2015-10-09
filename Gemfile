@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+# Use Puma as webserver
+gem 'puma'
