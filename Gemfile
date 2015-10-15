@@ -47,3 +47,6 @@ end
 
 # Use Puma as webserver
 gem 'puma'
+
+# Use Devise to authenticate
+gem 'devise'
