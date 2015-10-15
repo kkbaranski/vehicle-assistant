@@ -1,0 +1,2 @@
+class FuelingsController < ApplicationController
+end
